@@ -1,0 +1,10 @@
+/* Este es un selector de etiqueta  */
+body {
+    background-image: url("../img/papel.jpg");
+    font-family: sans-serif;   
+}
+
+h1{
+    color:rgba(139, 241, 232, 0.567);
+    text-align: center;
+}
